@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+xgboost
+joblib
+nltk
+sentencepiece
+transformers
+whisper  # optional later for ASR; can skip if you prefer another STT
+gTTS    # for simple TTS testing
+pyspellchecker  # simple spelling correction (optional)
+language-tool-python  # optional grammar correction
